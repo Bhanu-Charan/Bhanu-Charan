@@ -1,26 +1,27 @@
 # Hi 👋, I'm Bhanu Charan
 
-4th Year Computer Science Student at CVR College of Engineering
+- 4th Year Computer Science Student at CVR College of Engineering
 
-Aspiring Software Engineer
+- Aspiring Software Engineer
 
-Interested in AI, Machine Learning & Full Stack Development
+- Interested in AI, Machine Learning & Full Stack Development
 
-## Tech Stack
+## 💻 Tech Stack
 
-Java
-Python
-C
-HTML
-CSS
-JavaScript
-React
-Node.js
-Express
-Spring Boot
-PostgreSQL
-Git
-GitHub
+- Java
+- Python
+- C
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- Spring Boot
+- PostgreSQL
+- Prisma
+- Git
+- GitHub
 
 ## Current Focus
 
