@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Bhanu Charan
 
-<!--
-**Bhanu-Charan/Bhanu-Charan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4th Year Computer Science Student at CVR College of Engineering
 
-Here are some ideas to get you started:
+Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in AI, Machine Learning & Full Stack Development
+
+## Tech Stack
+
+Java
+Python
+C
+HTML
+CSS
+JavaScript
+React
+Node.js
+Express
+Spring Boot
+PostgreSQL
+Git
+GitHub
+
+## Current Focus
+
+• Data Structures & Algorithms
+• AI-based Applications
+• Spring Boot
+• Full Stack Development
+
+## Connect with me
+
+LinkedIn - https://www.linkedin.com/in/bhanu-charan-0720663a1/
+LeetCode - https://leetcode.com/u/charan1024/
+Email - bhanucharan81@gmail.com
