@@ -25,13 +25,13 @@
 
 ## Current Focus
 
-• Data Structures & Algorithms
-• AI-based Applications
-• Spring Boot
-• Full Stack Development
+- Data Structures & Algorithms
+- AI-based Applications
+- Spring Boot
+- Full Stack Development
 
 ## Connect with me
 
-LinkedIn - https://www.linkedin.com/in/bhanu-charan-0720663a1/
-LeetCode - https://leetcode.com/u/charan1024/
-Email - bhanucharan81@gmail.com
+- LinkedIn - https://www.linkedin.com/in/bhanu-charan-0720663a1/
+- LeetCode - https://leetcode.com/u/charan1024/
+- Email - bhanucharan81@gmail.com
